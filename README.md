@@ -53,7 +53,7 @@ Enter option :
 
 ---
 
-# Address Book Manager
+# Sample Execution
 ![Menu Screenshot](https://github.com/user-attachments/assets/b98a8e12-9c69-4663-bc61-041ea5092d05)
 ![Create contact](https://github.com/user-attachments/assets/7e6f013f-9269-42bc-a80f-e96863049ed9)
 ![Search contact](https://github.com/user-attachments/assets/74887da3-ca6d-4870-a9b8-a783e79c45b2)
